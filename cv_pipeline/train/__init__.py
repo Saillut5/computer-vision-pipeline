@@ -1,0 +1,8 @@
+# cv_pipeline/train/__init__.py
+
+from .trainer import Trainer
+
+__all__ = [
+    "Trainer",
+]
+# Simulated change on 2023-01-09 16:31:00
